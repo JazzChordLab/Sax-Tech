@@ -1,11 +1,7 @@
 <link rel="stylesheet" href="css/style.css">
+<!-- index.md -->
 
-<div align="center">
-  <h1>
-    TECHNICZNA<br>
-    SZKOŁA GRY NA SAKSOFONIE
-  </h1>
-</div>
+![Sax-Tech](assets/svg/sax_tech.svg)
 
 1. [Wprowadzenie](wprowadzenie.md)
 2. [Rozdział I – Ćwiczenia wstępne](rozdzial_1.md)
