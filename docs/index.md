@@ -1,6 +1,11 @@
 <link rel="stylesheet" href="css/style.css">
 
-# Techniczna szkoła gry na saksofonie
+<div align="center">
+  <h1>
+    TECHNICZNA<br>
+    SZKOŁA GRY NA SAKSOFONIE
+  </h1>
+</div>
 
 1. [Wprowadzenie](wprowadzenie.md)
 2. [Rozdział I – Ćwiczenia wstępne](rozdzial_1.md)
